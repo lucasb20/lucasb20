@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Meu nome é Lucas, tenho 20 anos, faço o quarto semestre de Ciência da Computação e sou um desenvolvedor backend. Eu tenho uma adoração especial também pela parte inútil da computação, como, por exemplo, a parte de criar sistemas complexos que nunca vou usar e programar algoritmos assustadores de I.A.
+Meu nome é Lucas, faço o 4° semestre de Ciência da Computação e sou um desenvolvedor backend. Eu tenho uma adoração especial pela parte inútil da computação, como criar sistemas complexos que nunca vou utilizar e fazer algoritmos assustadores de I.A.
 
-- 🔭 I’m currently working on LASIC - Backend Team
-- 🌱 I’m currently learning .NET, PostgreSQL and Docker
+- 🔭 I’m currently working on LASIC - Backend Team / DevOps
+- 🌱 I’m currently learning .NET, Jenkins and Cloud Computing Services
 - 👯 I’m looking to collaborate on A.I Projects
-- 🤔 I’m looking for help with learning databases
+- 🤔 I’m looking for help with learning data science
 - 💬 Ask me about anything
 - 📫 How to reach me: Whatsapp -> ... 😏
 - 😄 Pronouns: he/him
