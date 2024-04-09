@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Meu nome é Lucas, faço o 4° semestre de Ciência da Computação e sou um desenvolvedor backend. Eu tenho uma adoração especial pela parte inútil da computação, como criar sistemas complexos que nunca vou utilizar e fazer algoritmos assustadores de I.A.
+Meu nome é Lucas, faço o 4° semestre de Ciência da Computação. Eu tenho uma adoração especial pela parte inútil da computação, como criar sistemas complexos que nunca vou utilizar e fazer algoritmos assustadores de I.A.
 
-- 🔭 I’m currently working on LASIC - Backend Team / DevOps
+- 🔭 I’m currently working on ... nowhere
 - 🌱 I’m currently learning .NET, Jenkins and Cloud Computing Services
 - 👯 I’m looking to collaborate on A.I Projects
 - 🤔 I’m looking for help with learning data science
