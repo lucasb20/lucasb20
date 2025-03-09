@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Meu nome é Lucas, faço o 5° semestre de Ciência da Computação. Eu tenho uma adoração especial pela parte inútil da computação, como criar sistemas complexos que nunca vou utilizar e construir algoritmos assustadores de I.A.
+Meu nome é Lucas e faço o 6° semestre de Ciência da Computação. Eu tenho uma adoração especial pela parte inútil da computação, como criar sistemas complexos que nunca vou utilizar e construir algoritmos assustadores.
 
 - 🔭 I’m currently working on Nuven - Developer Team
-- 🌱 I’m currently learning DSA, O.S and A.I
+- 🌱 I’m currently learning theory of computation
 - 📫 How to reach me: Whatsapp -> ... 😏
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Chess and Kakegurui
