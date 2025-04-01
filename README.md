@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Lucas e faço o 6° semestre de Ciência da Computação. Eu tenho uma adoração especial pela parte inútil da computação, como criar sistemas complexos que nunca vou utilizar e construir algoritmos assustadores.
+Meu nome é Lucas e faço o 6° semestre de Ciência da Computação. Eu tenho uma adoração especial pela parte inútil da computação, como sistemas complexos que nunca vão ser utilizados, algoritmos extremamente específicos e outros.
 
 - 🔭 I’m currently working on Nuven - Developer Team
 - 🌱 I’m currently learning theory of computation
