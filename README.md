@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Meu nome é Lucas e faço o 6° semestre de Ciência da Computação. Eu tenho uma adoração especial pela parte inútil da computação, como sistemas complexos que nunca vão ser utilizados, algoritmos extremamente específicos e outros.
+Meu nome é Lucas e faço o 6° semestre de Ciência da Computação.
 
-- 🔭 I’m currently working on Nuven - Developer Team
+- 🔭 I’m currently working on ... nowhere
 - 🌱 I’m currently learning theory of computation
 - 📫 How to reach me: Whatsapp -> ... 😏
 - 😄 Pronouns: he/him
