@@ -2,7 +2,7 @@
 
 Meu nome é Lucas e faço o 6° semestre de Ciência da Computação.
 
-- 🔭 I’m currently working on ... nowhere
+- 🔭 I’m currently working on Polo de Inovação IFCE
 - 🌱 I’m currently learning theory of computation
 - 📫 How to reach me: Whatsapp -> ... 😏
 - 😄 Pronouns: he/him
