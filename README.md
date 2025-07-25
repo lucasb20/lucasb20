@@ -6,7 +6,7 @@ Meu nome é Lucas e faço o 6° semestre de Ciência da Computação.
 - 🌱 I’m currently learning theory of computation
 - 📫 How to reach me: Whatsapp -> ... 😏
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like Chess and Kakegurui
+- ⚡ Fun fact: I like Taylor Swift
 
 <!--
 **lucasb20/lucasb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
