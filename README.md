@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Meu nome é Lucas e faço o 6° semestre de Ciência da Computação.
+My name is Lucas and I'm a computer science undergraduate.
 
 - 🔭 I’m currently working on Polo de Inovação IFCE
-- 🌱 I’m currently learning theory of computation
+- 🌱 I’m currently learning microelectronics
 - 📫 How to reach me: Whatsapp -> ... 😏
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Taylor Swift
